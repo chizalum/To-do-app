@@ -126,10 +126,12 @@ export default {
 
   #delete{
   background: red;
+  cursor: pointer;
   }
 
   #edit{
   background: rgb(207, 140, 14);
+  cursor: pointer;
   }
 
   #btn{
